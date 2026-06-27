@@ -1,0 +1,20 @@
+# Starsector / Java / IDE cleanup
+*.log
+*.tmp
+*.bak
+*.class
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.idea/
+.vscode/
+
+# Build output
+out/
+build/
+dist/
+
+# Local test installs
+starsector-core/
+Starsector/
